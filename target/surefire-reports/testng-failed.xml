@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Academy.listeners"/>
+    <listener class-name="resourses.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Entering user and pass(failed)" verbose="0">
+    <classes>
+      <class name="Academy.HomePageNavigation">
+        <methods>
+          <include name="basePageNavigation"/>
+          <include name="innitialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Academy.HomePageNavigation -->
+    </classes>
+  </test> <!-- Entering user and pass(failed) -->
+  <test thread-count="5" parallel="tests" name="Clicking on home link(failed)" verbose="0">
+    <classes>
+      <class name="Academy.Clickonlink">
+        <methods>
+          <include name="clicklink"/>
+          <include name="innitialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Academy.Clickonlink -->
+    </classes>
+  </test> <!-- Clicking on home link(failed) -->
+  <test thread-count="5" parallel="tests" name="Validating text in login page(failed)" verbose="0">
+    <classes>
+      <class name="Academy.ValidateText">
+        <methods>
+          <include name="HeaderValidation"/>
+          <include name="basePage"/>
+          <include name="innitialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Academy.ValidateText -->
+    </classes>
+  </test> <!-- Validating text in login page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

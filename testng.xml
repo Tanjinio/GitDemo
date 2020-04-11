@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+<listeners>
+   <listener class-name="Academy.listeners"/>
+   <listener class-name="resourses.ExtentReporterNG"/>
+  
+</listeners>
+
+
+
+
+  <test thread-count="5" name="AppTest">
+    <classes>
+      <class name="Academy.AppTest"/>
+      </classes>
+       </test>
+      <test name="Validating text in login page">
+      <classes>
+      <class name="Academy.ValidateText"/>
+      </classes>
+       </test>
+        <test name="Clicking on home link">
+      <classes>
+      <class name="Academy.Clickonlink"/>
+      </classes>
+       </test>
+      <test name="Entering user and pass">
+      <classes>
+      <class name="Academy.HomePageNavigation"/>
+      </classes>
+    
+  </test>
+</suite> <!-- Suite -->

@@ -1,0 +1,316 @@
+17:15:43.910 [main] INFO  resourses.Base - driver is innitialized
+17:15:47.541 [main] INFO  resourses.Base - Navigated to home page
+17:15:47.679 [main] INFO  resourses.Base - got the text
+17:15:47.780 [main] INFO  resourses.Base - nav bar is displayed
+17:15:47.885 [main] INFO  resourses.Base - successfully validated text
+17:15:47.915 [main] INFO  resourses.Base - FEATURED COURSES
+17:16:00.673 [main] INFO  resourses.Base - abc@gmail.com1234
+17:16:00.673 [main] INFO  resourses.Base - 1234
+17:16:08.406 [main] INFO  resourses.Base - mno@gmail.com6789
+17:16:08.407 [main] INFO  resourses.Base - 6789
+13:05:04.609 [main] INFO  resourses.Base - driver is innitialized
+13:05:09.005 [main] INFO  resourses.Base - Navigated to home page
+13:05:09.202 [main] INFO  resourses.Base - got the text
+13:05:09.376 [main] INFO  resourses.Base - nav bar is displayed
+13:05:09.465 [main] INFO  resourses.Base - successfully validated text
+13:05:09.496 [main] INFO  resourses.Base - FEATURED COURSES
+13:05:25.479 [main] INFO  resourses.Base - abc@gmail.com1234
+13:05:25.479 [main] INFO  resourses.Base - 1234
+13:05:31.065 [main] INFO  resourses.Base - mno@gmail.com6789
+13:05:31.066 [main] INFO  resourses.Base - 6789
+14:02:40.503 [main] INFO  resourses.Base - driver is innitialized
+14:02:43.814 [main] INFO  resourses.Base - Navigated to home page
+14:02:44.092 [main] INFO  resourses.Base - got the text
+14:02:44.222 [main] INFO  resourses.Base - nav bar is displayed
+14:02:44.257 [main] INFO  resourses.Base - successfully validated text
+14:02:44.284 [main] INFO  resourses.Base - FEATURED COURSES
+14:02:58.571 [main] INFO  resourses.Base - abc@gmail.com1234
+14:02:58.571 [main] INFO  resourses.Base - 1234
+14:03:04.081 [main] INFO  resourses.Base - mno@gmail.com6789
+14:03:04.082 [main] INFO  resourses.Base - 6789
+14:05:16.699 [main] INFO  resourses.Base - driver is innitialized
+14:05:20.002 [main] INFO  resourses.Base - Navigated to home page
+14:05:20.300 [main] INFO  resourses.Base - got the text
+14:05:20.409 [main] INFO  resourses.Base - nav bar is displayed
+14:05:36.147 [main] INFO  resourses.Base - abc@gmail.com1234
+14:05:36.147 [main] INFO  resourses.Base - 1234
+14:05:40.965 [main] INFO  resourses.Base - mno@gmail.com6789
+14:05:40.965 [main] INFO  resourses.Base - 6789
+14:08:57.694 [main] INFO  resourses.Base - driver is innitialized
+14:09:01.056 [main] INFO  resourses.Base - Navigated to home page
+14:09:01.217 [main] INFO  resourses.Base - got the text
+14:09:01.309 [main] INFO  resourses.Base - nav bar is displayed
+14:09:17.244 [main] INFO  resourses.Base - abc@gmail.com1234
+14:09:17.244 [main] INFO  resourses.Base - 1234
+14:09:22.755 [main] INFO  resourses.Base - mno@gmail.com6789
+14:09:22.755 [main] INFO  resourses.Base - 6789
+14:25:52.120 [main] INFO  resourses.Base - driver is innitialized
+14:25:55.694 [main] INFO  resourses.Base - Navigated to home page
+14:25:55.883 [main] INFO  resourses.Base - got the text
+14:25:55.990 [main] INFO  resourses.Base - nav bar is displayed
+14:26:12.164 [main] INFO  resourses.Base - abc@gmail.com1234
+14:26:12.164 [main] INFO  resourses.Base - 1234
+14:26:17.616 [main] INFO  resourses.Base - mno@gmail.com6789
+14:26:17.616 [main] INFO  resourses.Base - 6789
+14:44:02.621 [main] INFO  resourses.Base - driver is innitialized
+14:44:06.078 [main] INFO  resourses.Base - Navigated to home page
+14:44:06.195 [main] INFO  resourses.Base - got the text
+14:44:06.457 [main] INFO  resourses.Base - nav bar is displayed
+14:44:22.571 [main] INFO  resourses.Base - abc@gmail.com1234
+14:44:22.572 [main] INFO  resourses.Base - 1234
+14:44:28.895 [main] INFO  resourses.Base - mno@gmail.com6789
+14:44:28.895 [main] INFO  resourses.Base - 6789
+14:46:13.183 [main] INFO  resourses.Base - driver is innitialized
+14:46:16.830 [main] INFO  resourses.Base - Navigated to home page
+14:46:17.005 [main] INFO  resourses.Base - got the text
+14:46:17.084 [main] INFO  resourses.Base - nav bar is displayed
+14:46:33.483 [main] INFO  resourses.Base - abc@gmail.com1234
+14:46:33.483 [main] INFO  resourses.Base - 1234
+14:46:40.130 [main] INFO  resourses.Base - mno@gmail.com6789
+14:46:40.131 [main] INFO  resourses.Base - 6789
+14:49:38.905 [main] INFO  resourses.Base - driver is innitialized
+14:49:42.390 [main] INFO  resourses.Base - Navigated to home page
+14:49:42.737 [main] INFO  resourses.Base - got the text
+14:49:42.841 [main] INFO  resourses.Base - nav bar is displayed
+14:50:03.076 [main] INFO  resourses.Base - abc@gmail.com1234
+14:50:03.077 [main] INFO  resourses.Base - 1234
+14:50:09.626 [main] INFO  resourses.Base - mno@gmail.com6789
+14:50:09.626 [main] INFO  resourses.Base - 6789
+14:52:30.592 [main] INFO  resourses.Base - driver is innitialized
+14:52:33.951 [main] INFO  resourses.Base - Navigated to home page
+14:52:34.113 [main] INFO  resourses.Base - got the text
+14:52:34.214 [main] INFO  resourses.Base - nav bar is displayed
+14:52:49.853 [main] INFO  resourses.Base - abc@gmail.com1234
+14:52:49.855 [main] INFO  resourses.Base - 1234
+14:52:55.808 [main] INFO  resourses.Base - mno@gmail.com6789
+14:52:55.808 [main] INFO  resourses.Base - 6789
+14:58:23.793 [main] INFO  resourses.Base - driver is innitialized
+14:58:27.062 [main] INFO  resourses.Base - Navigated to home page
+14:58:27.569 [main] INFO  resourses.Base - got the text
+14:58:27.733 [main] INFO  resourses.Base - nav bar is displayed
+15:41:24.852 [main] INFO  resourses.Base - driver is innitialized
+15:41:28.525 [main] INFO  resourses.Base - Navigated to home page
+15:41:28.757 [main] INFO  resourses.Base - got the text
+15:41:28.932 [main] INFO  resourses.Base - nav bar is displayed
+15:41:45.323 [main] INFO  resourses.Base - abc@gmail.com1234
+15:41:45.323 [main] INFO  resourses.Base - 1234
+15:41:51.133 [main] INFO  resourses.Base - mno@gmail.com6789
+15:41:51.133 [main] INFO  resourses.Base - 6789
+15:45:08.698 [main] INFO  resourses.Base - abc@gmail.com1234
+15:45:08.708 [main] INFO  resourses.Base - 1234
+15:45:14.363 [main] INFO  resourses.Base - mno@gmail.com6789
+15:45:14.364 [main] INFO  resourses.Base - 6789
+15:46:58.124 [main] INFO  resourses.Base - clicked on link
+15:47:14.898 [main] INFO  resourses.Base - abc@gmail.com1234
+15:47:14.899 [main] INFO  resourses.Base - 1234
+15:47:21.063 [main] INFO  resourses.Base - mno@gmail.com6789
+15:47:21.063 [main] INFO  resourses.Base - 6789
+17:14:54.018 [main] INFO  resourses.Base - driver is innitialized
+17:14:58.070 [main] INFO  resourses.Base - Navigated to home page
+17:14:58.197 [main] INFO  resourses.Base - got the text
+17:14:58.344 [main] INFO  resourses.Base - nav bar is displayed
+17:14:58.381 [main] INFO  resourses.Base - successfully validated text
+17:14:58.413 [main] INFO  resourses.Base - FEATURED COURSES
+17:15:22.570 [main] INFO  resourses.Base - clicked on link
+17:15:37.939 [main] INFO  resourses.Base - abc@gmail.com1234
+17:15:37.940 [main] INFO  resourses.Base - 1234
+17:15:44.058 [main] INFO  resourses.Base - mno@gmail.com6789
+17:15:44.058 [main] INFO  resourses.Base - 6789
+21:47:25.492 [main] INFO  resourses.Base - driver is innitialized
+21:47:29.048 [main] INFO  resourses.Base - Navigated to home page
+21:47:29.109 [main] INFO  resourses.Base - got the text
+21:47:29.250 [main] INFO  resourses.Base - nav bar is displayed
+21:47:29.274 [main] INFO  resourses.Base - successfully validated text
+21:47:29.293 [main] INFO  resourses.Base - FEATURED COURSES
+21:47:47.709 [main] INFO  resourses.Base - clicked on link
+21:48:04.705 [main] INFO  resourses.Base - abc@gmail.com1234
+21:48:04.705 [main] INFO  resourses.Base - 1234
+21:48:09.074 [main] INFO  resourses.Base - mno@gmail.com6789
+21:48:09.074 [main] INFO  resourses.Base - 6789
+22:02:01.830 [main] INFO  resourses.Base - driver is innitialized
+22:02:04.833 [main] INFO  resourses.Base - Navigated to home page
+22:02:04.895 [main] INFO  resourses.Base - got the text
+22:02:04.967 [main] INFO  resourses.Base - nav bar is displayed
+22:02:04.994 [main] INFO  resourses.Base - successfully validated text
+22:02:05.014 [main] INFO  resourses.Base - FEATURED COURSES
+22:02:22.683 [main] INFO  resourses.Base - clicked on link
+22:02:36.455 [main] INFO  resourses.Base - abc@gmail.com1234
+22:02:36.455 [main] INFO  resourses.Base - 1234
+22:02:40.529 [main] INFO  resourses.Base - mno@gmail.com6789
+22:02:40.530 [main] INFO  resourses.Base - 6789
+13:49:52.270 [main] INFO  resourses.Base - clicked on link
+13:52:49.788 [main] INFO  resourses.Base - clicked on link
+13:54:15.532 [main] INFO  resourses.Base - clicked on link
+13:57:08.531 [main] INFO  resourses.Base - clicked on link
+14:07:14.076 [main] INFO  resourses.Base - driver is innitialized
+14:07:17.541 [main] INFO  resourses.Base - Navigated to home page
+14:07:17.667 [main] INFO  resourses.Base - got the text
+14:07:17.832 [main] INFO  resourses.Base - nav bar is displayed
+14:07:17.909 [main] INFO  resourses.Base - successfully validated text
+14:07:18.026 [main] INFO  resourses.Base - FEATURED COURSES
+14:07:39.884 [main] INFO  resourses.Base - clicked on link
+14:07:57.345 [main] INFO  resourses.Base - abc@gmail.com1234
+14:07:57.346 [main] INFO  resourses.Base - 1234
+14:08:02.931 [main] INFO  resourses.Base - mno@gmail.com6789
+14:08:02.931 [main] INFO  resourses.Base - 6789
+20:48:45.836 [main] INFO  resourses.Base - driver is innitialized
+20:48:57.803 [main] INFO  resourses.Base - Navigated to home page
+20:48:57.850 [main] INFO  resourses.Base - got the text
+20:48:57.895 [main] INFO  resourses.Base - nav bar is displayed
+20:48:57.914 [main] INFO  resourses.Base - successfully validated text
+20:48:57.933 [main] INFO  resourses.Base - FEATURED COURSES
+20:49:12.519 [main] INFO  resourses.Base - clicked on link
+20:59:25.960 [main] INFO  resourses.Base - driver is innitialized
+20:59:37.299 [main] INFO  resourses.Base - Navigated to home page
+20:59:37.345 [main] INFO  resourses.Base - got the text
+20:59:37.400 [main] INFO  resourses.Base - nav bar is displayed
+20:59:37.418 [main] INFO  resourses.Base - successfully validated text
+20:59:37.437 [main] INFO  resourses.Base - FEATURED COURSES
+20:59:55.829 [main] INFO  resourses.Base - clicked on link
+21:06:35.921 [main] INFO  resourses.Base - driver is innitialized
+21:06:41.089 [main] INFO  resourses.Base - Navigated to home page
+21:06:41.137 [main] INFO  resourses.Base - got the text
+21:06:41.197 [main] INFO  resourses.Base - nav bar is displayed
+21:06:41.216 [main] INFO  resourses.Base - successfully validated text
+21:06:41.232 [main] INFO  resourses.Base - FEATURED COURSES
+21:06:57.038 [main] INFO  resourses.Base - clicked on link
+21:17:29.422 [main] INFO  resourses.Base - driver is innitialized
+21:17:41.194 [main] INFO  resourses.Base - Navigated to home page
+21:17:41.244 [main] INFO  resourses.Base - got the text
+21:17:41.303 [main] INFO  resourses.Base - nav bar is displayed
+21:17:41.321 [main] INFO  resourses.Base - successfully validated text
+21:17:41.338 [main] INFO  resourses.Base - FEATURED COURSES
+21:17:56.456 [main] INFO  resourses.Base - clicked on link
+21:25:07.622 [main] INFO  resourses.Base - abc@gmail.com1234
+21:25:07.626 [main] INFO  resourses.Base - 1234
+21:25:12.804 [main] INFO  resourses.Base - mno@gmail.com6789
+21:25:12.804 [main] INFO  resourses.Base - 6789
+21:52:56.847 [main] INFO  resourses.Base - abc@gmail.com1234
+21:52:56.851 [main] INFO  resourses.Base - 1234
+21:53:01.044 [main] INFO  resourses.Base - mno@gmail.com6789
+21:53:01.044 [main] INFO  resourses.Base - 6789
+21:54:38.493 [main] INFO  resourses.Base - driver is innitialized
+21:54:42.040 [main] INFO  resourses.Base - Navigated to home page
+21:54:42.156 [main] INFO  resourses.Base - got the text
+21:54:42.234 [main] INFO  resourses.Base - nav bar is displayed
+21:54:42.259 [main] INFO  resourses.Base - successfully validated text
+21:54:42.283 [main] INFO  resourses.Base - FEATURED COURSES
+21:54:55.954 [main] INFO  resourses.Base - clicked on link
+21:55:10.107 [main] INFO  resourses.Base - abc@gmail.com1234
+21:55:10.108 [main] INFO  resourses.Base - 1234
+21:55:15.238 [main] INFO  resourses.Base - mno@gmail.com6789
+21:55:15.238 [main] INFO  resourses.Base - 6789
+21:56:10.746 [main] INFO  resourses.Base - driver is innitialized
+21:56:22.590 [main] INFO  resourses.Base - Navigated to home page
+21:56:22.645 [main] INFO  resourses.Base - got the text
+21:56:22.702 [main] INFO  resourses.Base - nav bar is displayed
+21:56:22.722 [main] INFO  resourses.Base - successfully validated text
+21:56:22.740 [main] INFO  resourses.Base - FEATURED COURSES
+21:56:38.448 [main] INFO  resourses.Base - clicked on link
+22:16:34.766 [main] INFO  resourses.Base - driver is innitialized
+22:16:47.376 [main] INFO  resourses.Base - Navigated to home page
+22:16:47.429 [main] INFO  resourses.Base - got the text
+22:16:47.496 [main] INFO  resourses.Base - nav bar is displayed
+22:16:47.515 [main] INFO  resourses.Base - successfully validated text
+22:16:47.532 [main] INFO  resourses.Base - FEATURED COURSES
+22:17:02.465 [main] INFO  resourses.Base - clicked on link
+15:24:39.626 [main] INFO  resourses.Base - driver is innitialized
+15:24:42.740 [main] INFO  resourses.Base - Navigated to home page
+15:24:43.874 [main] INFO  resourses.Base - got the text
+15:24:43.952 [main] INFO  resourses.Base - nav bar is displayed
+15:24:43.972 [main] INFO  resourses.Base - successfully validated text
+15:24:43.990 [main] INFO  resourses.Base - FEATURED COURSES
+15:24:56.792 [main] INFO  resourses.Base - clicked on link
+15:25:10.058 [main] INFO  resourses.Base - abc@gmail.com1234
+15:25:10.059 [main] INFO  resourses.Base - 1234
+15:25:14.275 [main] INFO  resourses.Base - mno@gmail.com6789
+15:25:14.275 [main] INFO  resourses.Base - 6789
+15:43:57.979 [main] INFO  resourses.Base - Navigated to home page
+15:43:58.033 [main] INFO  resourses.Base - got the text
+15:43:58.095 [main] INFO  resourses.Base - nav bar is displayed
+15:43:58.115 [main] INFO  resourses.Base - successfully validated text
+15:43:58.134 [main] INFO  resourses.Base - FEATURED COURSES
+15:45:50.677 [main] INFO  resourses.Base - Navigated to home page
+15:45:50.828 [main] INFO  resourses.Base - got the text
+15:45:50.901 [main] INFO  resourses.Base - nav bar is displayed
+15:45:50.918 [main] INFO  resourses.Base - successfully validated text
+15:45:50.937 [main] INFO  resourses.Base - FEATURED COURSES
+15:49:19.999 [main] INFO  resourses.Base - Navigated to home page
+15:49:20.053 [main] INFO  resourses.Base - got the text
+15:49:20.116 [main] INFO  resourses.Base - nav bar is displayed
+15:49:20.152 [main] INFO  resourses.Base - successfully validated text
+15:49:20.181 [main] INFO  resourses.Base - FEATURED COURSES
+15:50:39.732 [main] INFO  resourses.Base - Navigated to home page
+15:50:39.773 [main] INFO  resourses.Base - got the text
+15:50:39.832 [main] INFO  resourses.Base - nav bar is displayed
+15:50:39.850 [main] INFO  resourses.Base - successfully validated text
+15:50:39.879 [main] INFO  resourses.Base - FEATURED COURSES
+15:53:01.641 [main] INFO  resourses.Base - Navigated to home page
+15:53:01.755 [main] INFO  resourses.Base - got the text
+15:53:01.815 [main] INFO  resourses.Base - nav bar is displayed
+15:53:01.837 [main] INFO  resourses.Base - successfully validated text
+15:53:01.856 [main] INFO  resourses.Base - FEATURED COURSES
+15:59:41.318 [main] INFO  resourses.Base - Navigated to home page
+15:59:41.377 [main] INFO  resourses.Base - got the text
+15:59:41.437 [main] INFO  resourses.Base - nav bar is displayed
+15:59:41.461 [main] INFO  resourses.Base - successfully validated text
+15:59:41.489 [main] INFO  resourses.Base - FEATURED COURSES
+15:59:54.409 [main] INFO  resourses.Base - clicked on link
+16:00:07.436 [main] INFO  resourses.Base - abc@gmail.com1234
+16:00:07.436 [main] INFO  resourses.Base - 1234
+16:00:11.755 [main] INFO  resourses.Base - mno@gmail.com6789
+16:00:11.755 [main] INFO  resourses.Base - 6789
+20:10:16.797 [main] INFO  resourses.Base - Navigated to home page
+20:10:16.929 [main] INFO  resourses.Base - got the text
+20:10:17.001 [main] INFO  resourses.Base - nav bar is displayed
+20:10:17.052 [main] INFO  resourses.Base - successfully validated text
+20:10:17.080 [main] INFO  resourses.Base - FEATURED COURSES
+20:10:32.883 [main] INFO  resourses.Base - clicked on link
+20:19:02.866 [main] INFO  resourses.Base - Navigated to home page
+20:19:02.915 [main] INFO  resourses.Base - got the text
+20:19:02.988 [main] INFO  resourses.Base - nav bar is displayed
+20:19:03.017 [main] INFO  resourses.Base - successfully validated text
+20:19:03.049 [main] INFO  resourses.Base - FEATURED COURSES
+20:19:18.560 [main] INFO  resourses.Base - clicked on link
+20:19:40.852 [main] INFO  resourses.Base - abc@gmail.com1234
+20:19:40.852 [main] INFO  resourses.Base - 1234
+20:19:45.702 [main] INFO  resourses.Base - mno@gmail.com6789
+20:19:45.702 [main] INFO  resourses.Base - 6789
+12:25:09.216 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+12:25:09.711 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+12:25:09.712 [TestNG-tests-4] INFO  resourses.Base - 1234
+12:29:56.407 [TestNG-tests-2] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+12:30:02.328 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+12:30:02.773 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+12:30:02.774 [TestNG-tests-4] INFO  resourses.Base - 1234
+14:13:47.423 [TestNG-tests-2] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:13:51.861 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+14:13:53.547 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+14:13:53.548 [TestNG-tests-4] INFO  resourses.Base - 1234
+14:16:08.992 [TestNG-tests-2] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:16:14.710 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+14:16:14.714 [TestNG-tests-4] INFO  resourses.Base - 1234
+14:16:17.603 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+14:22:49.102 [TestNG-tests-2] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:22:54.254 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+14:22:56.577 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+14:22:56.578 [TestNG-tests-4] INFO  resourses.Base - 1234
+14:24:43.769 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+14:24:45.077 [TestNG-tests-2] INFO  resourses.Base - Navigated to home page
+14:40:59.577 [TestNG-tests-2] INFO  resourses.Base - Navigated to home page
+14:42:20.986 [TestNG-tests-2] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:42:25.724 [TestNG-tests-4] INFO  resourses.Base - abc@gmail.com1234
+14:42:25.726 [TestNG-tests-4] INFO  resourses.Base - 1234
+14:42:27.280 [TestNG-tests-3] INFO  resourses.Base - clicked on link
+14:44:46.797 [main] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:46:31.443 [main] INFO  resourses.Base - AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING
+14:46:32.120 [main] INFO  resourses.Base - Navigated to home page
+14:46:32.154 [main] INFO  resourses.Base - got the text
+14:46:32.241 [main] INFO  resourses.Base - nav bar is displayed
+14:46:32.270 [main] INFO  resourses.Base - successfully validated text
+14:46:32.303 [main] INFO  resourses.Base - FEATURED COURSES
+14:46:45.425 [main] INFO  resourses.Base - clicked on link
+14:46:58.632 [main] INFO  resourses.Base - abc@gmail.com1234
+14:46:58.632 [main] INFO  resourses.Base - 1234
+14:47:02.750 [main] INFO  resourses.Base - mno@gmail.com6789
+14:47:02.750 [main] INFO  resourses.Base - 6789
