@@ -24,7 +24,7 @@ public class Clickonlink extends Base {
 		LoginPage lpg=new LoginPage(driver);
 		
 		lpg.ClickHome().click();
-		log.info("clicked on link");
+		log.info("clicked on link from manish eclipse");
 	}
 	@AfterTest()
 	public void teardown() {

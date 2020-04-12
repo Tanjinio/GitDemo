@@ -32,7 +32,7 @@ public class HomePageNavigation extends Base {
 		lg.EnterPass().sendKeys(password);
 		lg.ClickLOgin().click();
 		log.info(username + password);
-		log.info(password);
+		log.info(password);//yhgyjhfyftyftdrfdrftgfjgkgh
 	}
 
 	@AfterTest

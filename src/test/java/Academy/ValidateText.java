@@ -32,7 +32,7 @@ public class ValidateText extends Base {
 	@Test
 	public void basePage() throws IOException {
 		
-		log.info("Navigated to home page");
+		log.info("Navigated to home page from manish class");
 
 		lp = new LandingPage(driver);
 		System.out.println(lp.GetTitle().getText());
